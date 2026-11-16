@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Shimaryu4k/Shima-QoL/releases">Download the Universal release</a> ·
+  <a href="https://www.nexusmods.com/sunhaven/mods/568">Nexus Mods</a> ·
   <a href="INSTALL.md">Installation guide</a> ·
   <a href="https://discord.gg/hWFdr9ayFB">Join the community</a>
 </p>
