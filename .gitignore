@@ -1,0 +1,12 @@
+# Public showcase repository: track only these reviewed files.
+/*
+!/.gitignore
+!/README.md
+!/INSTALL.md
+!/Icon.png
+!/THIRD_PARTY_NOTICES.md
+!/LICENSE-imgui.txt
+!/LICENSE-cimgui.txt
+
+# Publish compiled ZIPs as GitHub Release assets, not repository files.
+# Source code, development notes, build outputs, and backups stay private.
