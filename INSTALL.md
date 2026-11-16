@@ -1,19 +1,19 @@
 # Installing Shima QoL
 
-**Shima QoL has not been publicly released yet.** These instructions are for when a release ZIP becomes available.
+**Shima QoL v0.0.144 — Early Access is available.** Download the [Universal ZIP](https://github.com/Shimaryu4k/Shima-QoL/releases/download/v0.0.144/ShimaQoL-Universal-v0.0.144.zip) and follow the steps below. This is a prerelease; development and testing are ongoing.
 
 ## What you need
 
 - Sun Haven on **Windows x64**.
 - One mod manager: [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or [r2modman](https://thunderstore.io/c/sun-haven/p/ebkr/r2modman/).
 - [BepInExPack by BepInEx](https://thunderstore.io/c/sun-haven/p/BepInEx/BepInExPack/) (BepInEx 5).
-- The compiled Shima QoL ZIP from [Releases](https://github.com/Shimaryu4k/Shima-QoL/releases), once published.
+- The compiled Universal ZIP from the [v0.0.144 release](https://github.com/Shimaryu4k/Shima-QoL/releases/tag/v0.0.144).
 
 ## Install the mod
 
 1. Open your mod manager, select **Sun Haven**, and create or choose a profile.
 2. In the manager's **Online** section, install **BepInExPack by BepInEx** in that profile.
-3. Download and extract the Shima QoL release ZIP. The mod file is `ShimaQoL.dll`.
+3. Download and extract the Universal ZIP. Find the mod file at `BepInEx/plugins/ShimaQoL/ShimaQoL.dll` inside the extracted package.
 4. With Sun Haven closed, open **Settings → Browse profile folder** in the manager.
 5. Copy `ShimaQoL.dll` into `BepInEx/plugins/ShimaQoL/`. Create the folder if needed.
 6. Launch Sun Haven using **Start modded** from the same profile.
