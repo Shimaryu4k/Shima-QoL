@@ -8,5 +8,15 @@
 !/LICENSE-imgui.txt
 !/LICENSE-cimgui.txt
 
+# Reviewed gameplay GIFs only. Keep source files and other media excluded.
+!/media/
+/media/*
+!/media/tooltip-overlay.gif
+!/media/quick-actions.gif
+!/media/automation-chest.gif
+!/media/storage-movement.gif
+!/media/plot-planner.gif
+!/media/player-wedding.gif
+
 # Publish compiled ZIPs as GitHub Release assets, not repository files.
 # Source code, development notes, build outputs, and backups stay private.

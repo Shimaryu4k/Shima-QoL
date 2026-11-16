@@ -27,6 +27,56 @@ Whether you're tending crops, decorating your home, exploring town, or playing w
 | **Settle into your space** | Sit on compatible chairs, couches, and benches, share wide beds, and customize the flooring in your Sun Haven barns. |
 | **Enjoy the little conveniences** | Find items by name in the Hardware Store and enable map fast travel for 500 gold per trip. |
 
+## See Shima QoL in action
+
+### World tooltips
+
+Check crop growth and fertilizer details while tending your farm.
+
+<p align="center">
+  <img src="media/tooltip-overlay.gif" alt="Sun Haven crops showing Shima QoL growth and fertilizer tooltips" width="560">
+</p>
+
+### Quick Actions
+
+Use action shortcuts to keep everyday farm work moving.
+
+<p align="center">
+  <img src="media/quick-actions.gif" alt="Shima QoL Quick Actions being used during Sun Haven gameplay" width="560">
+</p>
+
+### Automation Chest
+
+Link supported crafting stations to storage and collect finished items automatically.
+
+<p align="center">
+  <img src="media/automation-chest.gif" alt="Shima QoL crafting automation demonstration in Sun Haven" width="560">
+</p>
+
+### Move storage with its contents
+
+Rearrange your space while keeping the items inside supported storage.
+
+<p align="center">
+  <img src="media/storage-movement.gif" alt="A chest being moved with its contents using Shima QoL" width="560">
+</p>
+
+### Plot Planner
+
+Outline your next farming layout before putting your tools to work.
+
+<p align="center">
+  <img src="media/plot-planner.gif" alt="Shima QoL Plot Planner marking a farming layout in Sun Haven" width="560">
+</p>
+
+### Player weddings
+
+Celebrate a player wedding together in Sun Haven.
+
+<p align="center">
+  <img src="media/player-wedding.gif" alt="A player wedding ceremony with Shima QoL in Sun Haven" width="560">
+</p>
+
 ## Make it yours
 
 Choose the features that suit your playthrough. Customize shortcuts, tooltip categories, highlights, colors, and the settings window's appearance. Open the menu with **Insert**, adjust your preferences, and **Save settings**.
