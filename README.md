@@ -97,7 +97,7 @@ Shima QoL is still in early development. Features may be unfinished, bugs can ha
 
 **v0.0.144 — Early Access is available!** This prerelease improves barn flooring alignment, including repeating patterns such as Modern Marble, and introduces the Universal release package.
 
-**[Download Shima QoL v0.0.144 — Universal ZIP](https://github.com/Shimaryu4k/Shima-QoL/releases/download/v0.0.144/ShimaQoL-Universal-v0.0.144.zip)** · [Release notes](https://github.com/Shimaryu4k/Shima-QoL/releases/tag/v0.0.144)
+**[Visit the Releases page for downloads and release notes](https://github.com/Shimaryu4k/Shima-QoL/releases)**
 
 Requires **Sun Haven on Windows x64** and **BepInEx 5**. Follow the [installation guide](INSTALL.md) to set up your mod-manager profile and configure the mod. Development and multiplayer testing are ongoing; feedback and bug reports are welcome in [Discord](https://discord.gg/hWFdr9ayFB).
 
