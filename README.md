@@ -93,6 +93,8 @@ Shima QoL is still in early development. Features may be unfinished, bugs can ha
 
 **AI tools are used in the development of Shima QoL**, as part of an ongoing journey to learn coding and mod development. That process is shared openly with the community.
 
+**[Archive Old Dev Logs](ARCHIVE_OLD_DEV_LOGS.md)** — explore the early prototypes and development history through v0.0.144.
+
 ## Release status
 
 **v0.0.144 — Early Access is available!** This prerelease improves barn flooring alignment, including repeating patterns such as Modern Marble, and introduces the Universal release package.

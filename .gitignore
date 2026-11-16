@@ -3,6 +3,7 @@
 !/.gitignore
 !/README.md
 !/INSTALL.md
+!/ARCHIVE_OLD_DEV_LOGS.md
 !/Icon.png
 !/THIRD_PARTY_NOTICES.md
 !/LICENSE-imgui.txt
@@ -19,4 +20,5 @@
 !/media/player-wedding.gif
 
 # Publish compiled ZIPs as GitHub Release assets, not repository files.
-# Source code, development notes, build outputs, and backups stay private.
+# Source code, internal engineering notes, build outputs, and backups stay private.
+# ARCHIVE_OLD_DEV_LOGS.md is the reviewed public history, not a raw private log.
