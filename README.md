@@ -61,6 +61,7 @@ Change flooring inside **Sun Haven barns at levels 1–3**. Each barn keeps its 
 | **AFK Bed Rest** | Rest in bed at any hour. In co-op, join the night transition when the other sleep requirements are met and remain resting the next morning. |
 | **Hardware Store Search** | Search the Hardware Store catalog by item name. |
 | **Map Fast Travel** | Travel from a selected map location for **500 gold**, with native region and repair requirements respected. |
+| **Chat Bubbles** | A clickable envelope above the bottom-left HUD shows unread co-op chat. Each new unread message makes it briefly pop larger and plays an optional in-game sound. Click the envelope to open chat and clear the count. Adjust the badge, sound and volume under **Miscellaneous > Chat Bubbles**. Only the receiving player needs Shima QoL. |
 | **Properties** | Claim and name houses or sheds, manage locks and visitor access, and choose an owned Tier 3 home for your NPC spouse. Available through **Game Settings > Properties**. |
 
 ## See Shima QoL in action
@@ -133,18 +134,14 @@ Shima QoL is growing alongside its community. Join fellow Sun Haven players to f
 
 **[Join the Discord community →](https://discord.gg/hWFdr9ayFB)**
 
-## Early development, openly shared
+## Early Access
 
-Shima QoL is still in early development. Features may be unfinished, bugs can happen, and things will change as the mod grows.
+Shima QoL is in Early Access. Features may be unfinished, bugs can happen, and things will change as the mod grows.
 
 **AI tools are used in the development of Shima QoL**, as part of an ongoing journey to learn coding and mod development. That process is shared openly with the community.
 
-**[Archive Old Dev Logs](ARCHIVE_OLD_DEV_LOGS.md)** — explore the early prototypes and development history through v0.0.144.
+Explore the early prototypes and development history in [Archive Old Dev Logs](ARCHIVE_OLD_DEV_LOGS.md).
 
-## Release status
-
-**v0.0.144 — Early Access is available!** This prerelease improves barn flooring alignment, including repeating patterns such as Modern Marble, and introduces the Universal release package.
-
-**[Visit the Releases page for downloads and release notes](https://github.com/Shimaryu4k/Shima-QoL/releases)**
+Find release notes on the [Releases page](https://github.com/Shimaryu4k/Shima-QoL/releases).
 
 <sub>Dependency credits and license information: <a href="THIRD_PARTY_NOTICES.md">third-party notices</a>.</sub>
