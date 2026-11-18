@@ -1,13 +1,13 @@
 # Installing Shima QoL
 
-**Shima QoL 0.0.146 - Early Access** is a prerelease. Download the [Universal ZIP](https://github.com/Shimaryu4k/Shima-QoL/releases/download/v0.0.146/ShimaQoL-Universal-v0.0.146.zip) and follow the steps below.
+Shima QoL is in **Early Access**.
 
 ## What you need
 
 - Sun Haven on **Windows x64**.
 - One mod manager: [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or [r2modman](https://thunderstore.io/c/sun-haven/p/ebkr/r2modman/).
 - [BepInExPack by BepInEx](https://thunderstore.io/c/sun-haven/p/BepInEx/BepInExPack/) (BepInEx 5).
-- The compiled Universal ZIP from the [v0.0.146 release](https://github.com/Shimaryu4k/Shima-QoL/releases/tag/v0.0.146).
+- The **Universal ZIP** from [GitHub Releases](https://github.com/Shimaryu4k/Shima-QoL/releases).
 
 ## Install the mod
 
