@@ -39,9 +39,21 @@ Outline farm plots before building them. Create rectangles or custom shapes, inc
 
 Link supported crafting stations to storage to collect finished items automatically. Choose Auto or Manual collection for linked stations and manage your links from the settings window.
 
+In single-player and co-op, finished output and bonus items go to matching affinity tabs in the linked container, including when it is closed. Unmatched items go to the container's regular slots. Output waits when its affinity tab is full.
+
+### Chest Tabs
+
+Organize compatible chests, fridges and wardrobes in single-player and co-op. Start with four tabs and add up to eight per container. Rename and color tabs, assign an item affinity, and search across tabs to highlight matching items. Each tab can opt into crafting or expand to a 120-slot grid.
+
+In co-op, the host enables Chest Tabs and every player uses the same Shima QoL version. Anyone who can open a container can edit its tabs, one player at a time. The host can craft from extra tabs. Guests use regular slots for crafting.
+
+Quick Move sends matching items to their affinity tabs. **Transfer Similar and Affinities** also lets the incoming SAME button sort matching items by affinity. The **Chest Tabs** settings include **Moveable Chest**.
+
 ### Player Interaction
 
 Give gifts to other players, form a partnership, propose with an Engagement Ring and arrange a player wedding with Bernard. Partner interactions include **Cuddle** and **Goodnight**. Invite friends to supported birthday and wedding events; guests can join or decline.
+
+In Split Money co-op, enable **Gold Gifting** under **Player Interaction** to add **Give Gold** to the player interaction menu. Enter an amount, review it, and confirm the transfer. Use matching Shima QoL versions on the host and participating players.
 
 ### NPC Settings
 
