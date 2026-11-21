@@ -4,6 +4,8 @@
 !/README.md
 !/INSTALL.md
 !/ARCHIVE_OLD_DEV_LOGS.md
+!/CHEST_AFFINITIES.md
+!/AGENTS.md
 !/Icon.png
 !/THIRD_PARTY_NOTICES.md
 !/LICENSE-imgui.txt
@@ -18,6 +20,7 @@
 !/media/storage-movement.gif
 !/media/plot-planner.gif
 !/media/player-wedding.gif
+!/media/#7 Chest Tabs_Sun Haven.gif
 
 # Publish compiled ZIPs as GitHub Release assets, not repository files.
 # Source code, internal engineering notes, build outputs, and backups stay private.

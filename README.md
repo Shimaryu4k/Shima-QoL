@@ -43,11 +43,17 @@ In single-player and co-op, finished output and bonus items go to matching affin
 
 ### Chest Tabs
 
-Organize compatible chests, fridges and wardrobes in single-player and co-op. Start with four tabs and add up to eight per container. Rename and color tabs, assign an item affinity, and search across tabs to highlight matching items. Each tab can opt into crafting or expand to a 120-slot grid.
+Organize compatible chests, fridges, wardrobes, and Automatic Collectors in single-player and co-op. Start with four tabs and add up to eight per container. Rename and color tabs, assign an item affinity, and sort by name, rarity, or when items were added. Turn on **Auto Sort** to keep matching stacks together in your chosen order. Each tab can opt into crafting or expand to a 180-slot grid.
 
-In co-op, the host enables Chest Tabs and every player uses the same Shima QoL version. Anyone who can open a container can edit its tabs, one player at a time. The host can craft from extra tabs. Guests use regular slots for crafting.
+Chest search remembers what you typed between chests. Search across tabs by name, price, item stats, or affinity. Hover over the help icon for examples.
+
+In co-op, the host enables Chest Tabs and every player uses the same Shima QoL version. Anyone who can open a container can edit its tabs, one player at a time. Guests can open newly placed chests while the host is in another room.
+
+With **Use Nearby Chests** on, everyone can combine item ingredients from their backpack, nearby chest slots, and extra tabs marked **Use for crafting**, even with a full backpack. Guests use their regular crafting sources for recipes that spend currency, mana, or health.
 
 Quick Move sends matching items to their affinity tabs. **Transfer Similar and Affinities** also lets the incoming SAME button sort matching items by affinity. The **Chest Tabs** settings include **Moveable Chest**.
+
+Automatic Collectors fill Tab 1 first. Overflow goes to matching affinity tabs, then to the remaining tabs in order.
 
 ### Player Interaction
 
@@ -67,7 +73,7 @@ Change flooring inside **Sun Haven barns at levels 1–3**. Each barn keeps its 
 
 | Feature | What you can do |
 | --- | --- |
-| **Storage Movement** | Move supported storage with its contents using an in-world placement preview. Confirm a valid spot or cancel to keep it where it was. |
+| **Storage Movement** | Move supported storage using an in-world placement preview or pack it up for later. The contents of every tab and their settings travel with the chest. |
 | **Sitting** | Sit on compatible chairs, couches and benches using your character's appearance. Supported seated actions include eating and fishing. |
 | **Shared Beds** | Share a compatible wide bed with another player using separate pillows. |
 | **AFK Bed Rest** | Rest in bed at any hour. In co-op, join the night transition when the other sleep requirements are met and remain resting the next morning. |
@@ -126,6 +132,14 @@ Celebrate a player wedding together in Sun Haven.
   <img src="media/player-wedding.gif" alt="A player wedding ceremony with Shima QoL in Sun Haven" width="560">
 </p>
 
+### Organize items with Chest Tabs
+
+See Chest Tabs in action while organizing storage in Sun Haven.
+
+<p align="center">
+  <img src="media/%237%20Chest%20Tabs_Sun%20Haven.gif" alt="Shima QoL Chest Tabs being used to organize items in Sun Haven" width="440">
+</p>
+
 ## Installation and settings
 
 Requires **Sun Haven on Windows x64** and **BepInEx 5**. Get the **Universal ZIP** from the [Releases page](https://github.com/Shimaryu4k/Shima-QoL/releases), then follow the [installation guide](INSTALL.md).
@@ -155,5 +169,9 @@ Shima QoL is in Early Access. Features may be unfinished, bugs can happen, and t
 Explore the early prototypes and development history in [Archive Old Dev Logs](ARCHIVE_OLD_DEV_LOGS.md).
 
 Find release notes on the [Releases page](https://github.com/Shimaryu4k/Shima-QoL/releases).
+
+## For modders
+
+Look up Sun Haven item names, IDs, and Shima QoL’s affinity mappings. The reference includes CC BY 4.0 reuse and attribution details for Shima QoL’s original data. [Chest Tabs affinity reference](CHEST_AFFINITIES.md)
 
 <sub>Dependency credits and license information: <a href="THIRD_PARTY_NOTICES.md">third-party notices</a>.</sub>
