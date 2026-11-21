@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Icon.png" alt="Shima QoL flower icon" width="112">
+  <img src="Shima%20QoL-banner.png" alt="Shima QoL flower banner" width="100%">
 </p>
 
 <h1 align="center">Shima QoL</h1>
@@ -19,28 +19,63 @@ Choose the features you want in one settings window, with configurable shortcuts
 
 ## Main features
 
-- **Tool Tip Overlay** shows crop growth, fertilizer, fruit counts, and chest names as you hover. Turn on tile borders, highlights, or scarecrow and totem ranges.
-- **Quick Actions** adds shortcuts for mining, chopping, hoeing, watering, scything, attacking, fishing, and mounts. Hold supported shortcuts to repeat an action or move toward your cursor.
-- **Stack Splitter** uses **Alt + right-click** to split stacks in your bag or storage by a set amount or percentage.
-- **Plot Planner** previews rectangular and custom farm plots with dimensions and tile counts.
-- **Automation Chest** collects finished crafts and bonus items into linked storage, automatically or on demand. Items can go straight into matching Chest Tabs.
-- **Chest Tabs** adds up to eight customizable tabs to supported storage in solo and co-op. Expand tabs to 180 slots, search and auto-sort items, assign categories for quick transfers, and choose which tabs supply crafting ingredients.
-- **Player Interaction** lets you give gifts, become partners, cuddle, say goodnight, and plan weddings with Bernard. Join supported birthdays and weddings or send gold in Split Money co-op.
-- **NPC Settings** gives your NPC spouse days off at their assigned Tier 3 home, with indoor activities and extra conversations for Lynn.
-- **Building Modifications** lets you change or restore flooring in level 1–3 Sun Haven barns. Flooring is reusable, and each barn remembers its floor.
+### Chest Tabs
+
+Add up to eight customizable tabs to supported storage in solo or co-op. Search and auto-sort items, expand a tab to **180 slots**, and choose which tabs supply crafting ingredients.
+
+### Storage Movement
+
+Move a loaded chest to a new spot or pack it up for later. Its items and tab settings go with it.
+
+### Automation Chest
+
+Send finished crafts and bonus items to linked storage, automatically or when you choose. Items can go straight to matching Chest Tabs.
+
+### Properties
+
+Claim and name houses or sheds, set locks, and choose who can visit.
+
+### Player Interaction
+
+Give gifts, become partners, or plan a wedding with Bernard. Friends can join supported birthdays and weddings. **Gold Gifting** works in Split Money co-op.
+
+### Shared Beds
+
+Share a compatible wide bed with another player, with a pillow for each of you.
+
+### Quick Actions
+
+Use shortcuts for farm tools, combat, fishing, and mounts. Hold supported shortcuts to repeat the action or move toward your cursor.
+
+### Tool Tip Overlay
+
+Hover to check crop growth, fertilizer, fruit counts, and chest names. Show tile borders and scarecrow or totem ranges.
+
+### Plot Planner
+
+Preview rectangular and custom farm plots, with dimensions and tile counts.
+
+### Map Fast Travel
+
+Travel to eligible destinations directly from the map for **500 gold**.
+
+### NPC Settings
+
+Give your NPC spouse days off at their assigned Tier 3 home, with indoor activities and extra conversations for Lynn.
+
+### Building Modifications
+
+Change or restore the floor in level 1–3 Sun Haven barns. Flooring is reusable, and each barn remembers its floor.
 
 ## Additional features
 
 | Feature | What you can do |
 | --- | --- |
-| **Storage Movement** | Move supported storage using an in-world placement preview or pack it up for later. The contents of every tab and their settings travel with the chest. |
-| **Sitting** | Sit on compatible chairs, couches and benches using your character's appearance. Supported seated actions include eating and fishing. |
-| **Shared Beds** | Share a compatible wide bed with another player using separate pillows. |
-| **AFK Bed Rest** | Rest in bed at any hour. In co-op, join the night transition when the other sleep requirements are met and remain resting the next morning. |
-| **Hardware Store Search** | Search the Hardware Store catalog by item name. |
-| **Map Fast Travel** | Travel from a selected map location for **500 gold**, with native region and repair requirements respected. |
-| **Chat Bubbles** | A clickable envelope above the bottom-left HUD shows unread co-op chat. Each new unread message makes it briefly pop larger and plays an optional in-game sound. Click the envelope to open chat and clear the count. Adjust the badge, sound and volume under **Miscellaneous > Chat Bubbles**. Only the receiving player needs Shima QoL. |
-| **Properties** | Claim and name houses or sheds, manage locks and visitor access, and choose an owned Tier 3 home for your NPC spouse. Available through **Game Settings > Properties**. |
+| **Stack Splitter** | Use **Alt + right-click** to split stacks by amount or percentage. |
+| **Sitting** | Sit on compatible chairs, couches, and benches. Eat or fish from supported seats. |
+| **AFK Bed Rest** | Rest at any hour and stay in bed after sleeping through the night. |
+| **Hardware Store Search** | Find items in the Hardware Store catalog by name. |
+| **Chat Bubbles** | Check unread co-op messages from a clickable envelope, with optional sound. |
 
 ## See Shima QoL in action
 
