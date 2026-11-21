@@ -2,6 +2,9 @@
 /*
 !/.gitignore
 !/README.md
+!/go.html
+!/Inter.woff2
+!/LICENSE-Inter.txt
 !/INSTALL.md
 !/ARCHIVE_OLD_DEV_LOGS.md
 !/CHEST_AFFINITIES.md
@@ -12,7 +15,7 @@
 !/LICENSE-imgui.txt
 !/LICENSE-cimgui.txt
 
-# Reviewed gameplay GIFs only. Keep source files and other media excluded.
+# Reviewed gameplay media only. Keep source files and other media excluded.
 !/media/
 /media/*
 !/media/tooltip-overlay.gif
@@ -22,6 +25,30 @@
 !/media/plot-planner.gif
 !/media/player-wedding.gif
 !/media/#7 Chest Tabs_Sun Haven.gif
+!/media/link-banner.png
+!/media/link-brand.svg
+!/media/link-wedding.png
+!/media/link-github.png
+!/media/link-nexus.png
+!/media/link-thunderstore.svg
+!/media/link-discord.svg
+!/media/link-x.svg
+
+!/media/demos/
+/media/demos/*
+!/media/demos/automation-chest.jpg
+!/media/demos/automation-chest.mp4
+!/media/demos/chest-tabs.jpg
+!/media/demos/chest-tabs.mp4
+!/media/demos/player-wedding.mp4
+!/media/demos/plot-planner.jpg
+!/media/demos/plot-planner.mp4
+!/media/demos/quick-actions.jpg
+!/media/demos/quick-actions.mp4
+!/media/demos/storage-movement.jpg
+!/media/demos/storage-movement.mp4
+!/media/demos/tooltip-overlay.jpg
+!/media/demos/tooltip-overlay.mp4
 
 # Publish compiled ZIPs as GitHub Release assets, not repository files.
 # Source code, internal engineering notes, build outputs, and backups stay private.
