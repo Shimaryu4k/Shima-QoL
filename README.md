@@ -19,55 +19,15 @@ Choose the features you want in one settings window, with configurable shortcuts
 
 ## Main features
 
-### Tool Tip Overlay
-
-Hover over crops, trees, storage, NPCs and world objects to see names and useful details. Check crop growth time and active fertilizer, remaining fruit and chest names. Optional highlights, tile borders and totem/scarecrow ranges help you see what you are pointing at.
-
-### Quick Actions
-
-Assign shortcuts for mining, chopping, hoeing, watering, scything, attacking, fishing and mounts. Use carried tools from your hotbar or backpack, with your previous selection restored afterward. Hold supported tool shortcuts to repeat actions, or enable movement toward the mouse while working.
-
-### Stack Splitter
-
-Use **Alt + right-click** to split stacks in your inventory or storage. Choose a fixed item count or a percentage, and hold to repeat the split.
-
-### Plot Planner
-
-Outline farm plots before building them. Create rectangles or custom shapes, including L-shaped and U-shaped layouts, with a live border, dimensions and tile count. Customize the preview colors and opacity.
-
-### Automation Chest
-
-Link supported crafting stations to storage to collect finished items automatically. Choose Auto or Manual collection for linked stations and manage your links from the settings window.
-
-In single-player and co-op, finished output and bonus items go to matching affinity tabs in the linked container, including when it is closed. Unmatched items go to the container's regular slots. Output waits when its affinity tab is full.
-
-### Chest Tabs
-
-Organize compatible chests, fridges, wardrobes, and Automatic Collectors in single-player and co-op. Start with four tabs and add up to eight per container. Rename and color tabs, assign an item affinity, and sort by name, rarity, or when items were added. Turn on **Auto Sort** to keep matching stacks together in your chosen order. Each tab can opt into crafting or expand to a 180-slot grid.
-
-Chest search remembers what you typed between chests. Search across tabs by name, price, item stats, or affinity. Hover over the help icon for examples.
-
-In co-op, the host enables Chest Tabs and every player uses the same Shima QoL version. Anyone who can open a container can edit its tabs, one player at a time. Guests can open newly placed chests while the host is in another room.
-
-With **Use Nearby Chests** on, everyone can combine item ingredients from their backpack, nearby chest slots, and extra tabs marked **Use for crafting**, even with a full backpack. Guests use their regular crafting sources for recipes that spend currency, mana, or health.
-
-Quick Move sends matching items to their affinity tabs. **Transfer Similar and Affinities** also lets the incoming SAME button sort matching items by affinity. The **Chest Tabs** settings include **Moveable Chest**.
-
-Automatic Collectors fill Tab 1 first. Overflow goes to matching affinity tabs, then to the remaining tabs in order.
-
-### Player Interaction
-
-Give gifts to other players, form a partnership, propose with an Engagement Ring and arrange a player wedding with Bernard. Partner interactions include **Cuddle** and **Goodnight**. Invite friends to supported birthday and wedding events; guests can join or decline.
-
-In Split Money co-op, enable **Gold Gifting** under **Player Interaction** to add **Give Gold** to the player interaction menu. Enter an amount, review it, and confirm the transfer. Use matching Shima QoL versions on the host and participating players.
-
-### NPC Settings
-
-Give your married NPC spouse days off to spend time in their assigned Tier 3 home. Supports indoor walking, pauses and available native furniture activities for the 25 supported spouses, plus shared return walks and additional Lynn conversations. Activities depend on each NPC's supported animations.
-
-### Building Modifications
-
-Change flooring inside **Sun Haven barns at levels 1–3**. Each barn keeps its own choice through upgrades and world saves. Hold a flooring item to use **Set Flooring** or **Restore Barn Floor**. Flooring is reusable, and vanilla players continue to see the original barn floor.
+- **Tool Tip Overlay** shows crop growth, fertilizer, fruit counts, and chest names as you hover. Turn on tile borders, highlights, or scarecrow and totem ranges.
+- **Quick Actions** adds shortcuts for mining, chopping, hoeing, watering, scything, attacking, fishing, and mounts. Hold supported shortcuts to repeat an action or move toward your cursor.
+- **Stack Splitter** uses **Alt + right-click** to split stacks in your bag or storage by a set amount or percentage.
+- **Plot Planner** previews rectangular and custom farm plots with dimensions and tile counts.
+- **Automation Chest** collects finished crafts and bonus items into linked storage, automatically or on demand. Items can go straight into matching Chest Tabs.
+- **Chest Tabs** adds up to eight customizable tabs to supported storage in solo and co-op. Expand tabs to 180 slots, search and auto-sort items, assign categories for quick transfers, and choose which tabs supply crafting ingredients.
+- **Player Interaction** lets you give gifts, become partners, cuddle, say goodnight, and plan weddings with Bernard. Join supported birthdays and weddings or send gold in Split Money co-op.
+- **NPC Settings** gives your NPC spouse days off at their assigned Tier 3 home, with indoor activities and extra conversations for Lynn.
+- **Building Modifications** lets you change or restore flooring in level 1–3 Sun Haven barns. Flooring is reusable, and each barn remembers its floor.
 
 ## Additional features
 
