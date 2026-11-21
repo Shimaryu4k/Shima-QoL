@@ -1,7 +1,9 @@
 # Public showcase repository: track only these reviewed files.
 /*
 !/.gitignore
+!/_config.yml
 !/README.md
+!/index.html
 !/go.html
 !/Inter.woff2
 !/LICENSE-Inter.txt
